@@ -1,0 +1,9 @@
+higher==0.2
+ipdb==0.13.3
+matplotlib
+numpy==1.18.1
+pandas==1.0.0
+scipy==1.4.1
+torch==1.6.0
+torchvision==0.7.0
+tqdm==4.43.0
